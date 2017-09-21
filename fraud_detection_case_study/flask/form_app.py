@@ -65,7 +65,7 @@ def score():
     # r = json.dumps(request.json, sort_keys=True, indent=4, separators=(',', ': '))
     # new = model(r)
     event_dict = ast.literal_eval(new)
-    org = "Is '"+str(event_dict['org_name'])+"' up to no good?"
+    org = "Is '"+m.group(0)+"' up to no good?"
     return render_template('form/score.html', org_name = org, risk=risk, probability=probability, object_id=m.group(0))#, article=data, predicted=pred)
 
 
