@@ -1,0 +1,48 @@
+Logistic Regression Recall Score (train):  0.725663716814
+Logistic Regression Recall Score (test):  0.802631578947
+
+Standard Scaler Logistic Regression Recall Score (train):  0.738938053097
+Standard Scaler Logistic Regression Recall Score (test):  0.789473684211
+
+LinearSVC Recall Score (train):  0.809734513274
+LinearSVC Recall Score (test):  0.842105263158
+
+Standard Scaler LinearSVC Recall Score (train):  0.747787610619
+Standard Scaler LinearSVC Recall Score (test):  0.789473684211
+
+_______________________________
+
+Logistic Regression with StandardScaler=False:
+Recall Score (train):  0.725663716814
+Recall Score (test):  0.802631578947
+
+Logistic Regression with StandardScaler=True:
+Recall Score (train):  0.738938053097
+Recall Score (test):  0.789473684211
+
+LinearSVC with StandardScaler=False:
+Recall Score (train):  0.809734513274
+Recall Score (test):  0.842105263158
+
+LinearSVC with StandardScaler=True:
+Recall Score (train):  0.747787610619
+Recall Score (test):  0.789473684211
+
+_____________________________
+
+Logistic Regression with StandardScaler=False:
+Recall Score (train):  0.725663716814
+Recall Score (test):  0.802631578947
+
+Logistic Regression with StandardScaler=True:
+Recall Score (train):  0.725663716814
+Recall Score (test):  0.802631578947
+
+LinearSVC with StandardScaler=False:
+Recall Score (train):  0.809734513274
+Recall Score (test):  0.842105263158
+
+LinearSVC with StandardScaler=True:
+Recall Score (train):  0.730088495575
+Recall Score (test):  0.802631578947
+
