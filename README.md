@@ -1,7 +1,7 @@
 # Galvanize-Portfolio
 Collection of case studies I have completed while working through the Galvanize Data Science Immersive Program
 
-During these case studies, we were required to utlize skills in data munging, cleaning, regression and machine learning to come up with efficent, presentable solutions to industry relevant problems.
+During these case studies, we were required to utlize skills in data munging, cleaning, visualization, regression analysis and machine learning to come up with efficient, presentable solutions to industry relevant problems.
 
 [Regression-case-study](https://github.com/maxgrossenbacher/Galvanize-Portfolio/tree/master/regression_case_study) - we were required to predict the price of an item based on 50+ features.
 
